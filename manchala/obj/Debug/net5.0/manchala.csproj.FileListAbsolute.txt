@@ -1,0 +1,16 @@
+C:\Users\Maxwell\source\repos\manchala\manchala\bin\Debug\net5.0\manchala.exe
+C:\Users\Maxwell\source\repos\manchala\manchala\bin\Debug\net5.0\manchala.deps.json
+C:\Users\Maxwell\source\repos\manchala\manchala\bin\Debug\net5.0\manchala.runtimeconfig.json
+C:\Users\Maxwell\source\repos\manchala\manchala\bin\Debug\net5.0\manchala.runtimeconfig.dev.json
+C:\Users\Maxwell\source\repos\manchala\manchala\bin\Debug\net5.0\manchala.dll
+C:\Users\Maxwell\source\repos\manchala\manchala\bin\Debug\net5.0\ref\manchala.dll
+C:\Users\Maxwell\source\repos\manchala\manchala\bin\Debug\net5.0\manchala.pdb
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.csproj.AssemblyReference.cache
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.AssemblyInfoInputs.cache
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.AssemblyInfo.cs
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.csproj.CoreCompileInputs.cache
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.dll
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\ref\manchala.dll
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.pdb
+C:\Users\Maxwell\source\repos\manchala\manchala\obj\Debug\net5.0\manchala.genruntimeconfig.cache
